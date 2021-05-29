@@ -10,6 +10,7 @@ if(floor === 0){
 else if(floor === 1){
         document.write("<div class=abc>" + tail + " Tail win" + "</div>")
 
-}else(
+}
+else(
     alert("Incorrect Name")
 )
